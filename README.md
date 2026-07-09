@@ -2,10 +2,10 @@
 <h3 align="center">Data & Cloud Engineering · Azure · Python · Backend</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/TU-USUARIO/">
+  <a href="www.linkedin.com/in/samuel-bueno-crea">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:tu-correo@ejemplo.com">
+  <a href="mailto:sbueno05@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -22,7 +22,7 @@ Me interesa la ingeniería de datos y cloud — pipelines, infraestructura y tod
 - 👯 Buscando colaborar en: proyectos de datos/cloud engineering y herramientas open-source de automatización (tipo Dictum)
 - 🤝 Buscando ayuda con: entrar al mercado de Data en Chile — el camino junior casi no existe, así que ando abriéndolo a punta de certificaciones y proyectos
 - 🌱 Actualmente aprendiendo: Power BI (PL-300) y Microsoft Fabric (DP-700)
-- 💬 Pregúntame sobre: Python, arquitectura, negocio
+- 💬 Pregúntame sobre: Python, arquitectura y negocio
 - ⚡ Dato random: estudio de noche, trabajo de día, y de alguna forma tuve el tiempo para crear un servidor de Jellyfin así dejé de pagar suscripciones de streaming
 
 ---
@@ -94,10 +94,6 @@ Backend multi-tenant en FastAPI que orquesta consultas KQL en paralelo contra Mi
 
 ### 📊 Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=creativemarsh&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=creativemarsh&layout=compact&hide_border=true" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=creativemarsh&hide_border=true" />
