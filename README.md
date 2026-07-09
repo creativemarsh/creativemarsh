@@ -95,10 +95,5 @@ Backend multi-tenant en FastAPI que orquesta consultas KQL en paralelo contra Mi
 ### 📊 Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=creativemarsh&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=creativemarsh&layout=compact&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=creativemarsh&hide_border=true" />
 </p>
