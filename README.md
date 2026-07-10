@@ -14,13 +14,13 @@
 
 ### 👋 Sobre mí
 
-Estudiante de Ingeniería en Informática (Analista Programador) en Duoc UC, cursando en modalidad vespertina mientras trabajo. Actualmente en práctica profesional en **Nebulan**, un MSSP Microsoft Azure Partner, construyendo una plataforma de generación automatizada de reportes de ciberseguridad sobre Azure Sentinel.
+Estudiante de Ingeniería en Informática (Analista Programador) en Duoc UC, cursando en modalidad vespertina mientras trabajo. Actualmente en práctica profesional en **Nebulan**, construyendo una plataforma de generación automatizada de reportes de ciberseguridad sobre Azure Sentinel.
 
 Me interesa la ingeniería de datos y cloud — pipelines, infraestructura y todo lo que pasa entre que un dato se genera y se convierte en algo útil. Fuera del código, tengo un homelab propio corriendo en Docker donde experimento con todo lo que no me dejan tocar en producción.
 
 - 🔭 Actualmente trabajando en: automatizar reportes de ciberseguridad sobre Azure Sentinel (Nebulan) y cerrar los endpoints pendientes de Huntarr
 - 👯 Buscando colaborar en: proyectos de datos/cloud engineering y herramientas open-source de automatización (tipo Dictum)
-- 🤝 Buscando ayuda con: entrar al mercado de Data en Chile — el camino junior casi no existe, así que ando abriéndolo a punta de certificaciones y proyectos
+- 🤝 Buscando ayuda con: entrar al mercado de Data en Chile, el camino junior casi no existe, así que ando abriéndolo a punta de certificaciones y proyectos
 - 🌱 Actualmente aprendiendo: Power BI (PL-300) y Microsoft Fabric (DP-700)
 - 💬 Pregúntame sobre: Python, arquitectura y negocio
 - ⚡ Dato random: estudio de noche, trabajo de día, y de alguna forma tuve el tiempo para crear un servidor de Jellyfin así dejé de pagar suscripciones de streaming
